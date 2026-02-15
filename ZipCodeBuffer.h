@@ -206,6 +206,4 @@ public:
     string getFilename() const;
 };
 
-#include "ZipCodeBuffer.cpp"
-
 #endif // ZIPCODEBUFFER_H
